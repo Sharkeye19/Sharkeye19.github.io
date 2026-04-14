@@ -5,9 +5,7 @@ type: landing
 
 design:
   background:
-    image:
-      # Add your image background to `assets/media/`.
-      filename: bg-hue.svg
+    color: '#1a1a1a'
 
 sections:
   - block: resume-biography

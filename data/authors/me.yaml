@@ -38,6 +38,9 @@ links:
     url: https://www.youtube.com/watch?v=ncSyRBRkRo8
     label: "Turing Institute: ENA Connect Direct AI Image Recognition"
   - icon: hero/document-text
+    url: https://www.riskday.co.uk/_files/ugd/79c03d_be6cef3d51a442c3bae623085ff766a6.pdf
+    label: Risk Day Presentation
+  - icon: hero/document-text
     url: https://smarter.energynetworks.org/projects/nia2_nget0075/
     label: Project FRAME
   - icon: hero/document-text
