@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Dr Edward Sharkey'
 date: 2023-10-24
 type: landing
 
@@ -26,13 +26,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
+        - text: View my Baringa profile
+          icon: globe-alt
+          url: https://www.baringa.com/en/people/experts/ed-sharkey/
+        - text: Project FRAME - Asset Management for Grid
+          icon: hero/document-text
+          url: https://smarter.energynetworks.org/projects/nia2_nget0075/
+        - text: ENA Connect Direct Award
+          icon: hero/trophy
+          url: https://www.mca.org.uk/awards/finalists-2024/projects-2024/baringa-partners-with-energy-networks-association
 ---
