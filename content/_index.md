@@ -27,10 +27,16 @@ sections:
         - text: View my Baringa profile
           icon: globe-alt
           url: https://www.baringa.com/en/people/experts/ed-sharkey/
-        - text: Project FRAME - Asset Management for Grid
+        - text: "Turing Institute Talk: ENA Connect Direct AI Image         Recognition"
+          icon: brands/youtube
+          url: https://www.youtube.com/watch?v=ncSyRBRkRo879c03d_be6cef3d51a442c3bae623085ff766a6.pdf
+        - text: "Project FRAME - Asset Risk Prediction"
           icon: hero/document-text
           url: https://smarter.energynetworks.org/projects/nia2_nget0075/
-        - text: ENA Connect Direct Award
+        - text : "Edinburgh Climate Change Supergen Risk Resilience"
+          icon: hero/document-text   Presentation
+          url: https://www.riskday.co.uk/_files/ugd/79c03d_be6cef3d51a442c3bae623085ff766a6.pdf
+        - text: ENA Connect Direct
           icon: hero/trophy
           url: https://www.mca.org.uk/awards/finalists-2024/projects-2024/baringa-partners-with-energy-networks-association
 ---
